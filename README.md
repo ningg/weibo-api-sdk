@@ -19,6 +19,7 @@ weibo api SDK(Java)
 几个方面:
 
 1. 将上述 example 升级为 unit test.
+2. 整理当前代码的使用步骤: 如何导出 jar 包, 如何提交到远程中央仓库.
 
 ## 参考资料
 
